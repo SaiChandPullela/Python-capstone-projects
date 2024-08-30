@@ -2,7 +2,7 @@
 
 Welcome aboard the **Railway Reservation System**! This dynamic and user-friendly application lets you effortlessly book, cancel, and manage train tickets with just a few clicks. 🌟🚉
 
-[Click here to view the project](https://github.com/SaiChandPullela/Python-capstone-projects/tree/main/Railway-Reservation-system)
+[Click here to view the project files](https://github.com/SaiChandPullela/Python-capstone-projects/tree/main/Railway-Reservation-system)
 
 
 ## Features 🚀
