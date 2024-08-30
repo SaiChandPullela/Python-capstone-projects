@@ -2,6 +2,8 @@
 
 **U.S. States Guessing Game** is an educational and fun game where you test your knowledge of U.S. geography by guessing the names of states. The game visually displays each correctly guessed state on a map! 🧠🎯
 
+[Click here to view the project files](https://github.com/SaiChandPullela/Python-capstone-projects/tree/main/US_States_game)
+
 ## Project Overview 📚
 
 This project is developed using **Python** and the **Turtle** graphics library. It prompts users to input the names of U.S. states, and if the guess is correct, the state name appears on the map. The game tracks the number of correct guesses and provides an option to save the states you still need to learn. 🌍📝
